@@ -24,8 +24,9 @@ modules:
 queue: normalsr
 ncpus: 208
 jobfs: 10GB
-walltime: 02:00:00
-jobname: access-rom3-demo
+walltime: 04:00:00
+jobname: access-rom3-demo-bgc
+mem: 512GB
 
 model: access-om3
 exe: access-om3-MOM6
@@ -50,7 +51,15 @@ mpi:
     flags:
         - --mca mpi_yield_when_idle true
 
-collate: false
+collate:
+    flags: -n4 -m -r
+    exe: mppnccombine
+    restart: true
+    mpi: false
+    walltime: 0:30:00
+    mem: 30GB
+    ncpus: 1
+    queue: normalsr
 
 userscripts:
     archive: /usr/bin/bash /g/data/vk83/apps/om3-scripts/payu_config/archive.sh
