@@ -9,7 +9,7 @@ ACCESS-OM3
 
 # monthly 3d BGC fields
 
-"access-om3.mom6.3d.bgc.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
+"access-om3.mom6.3d.bgc.1mon.mean.%4yr", 1, "days", 1, "days", "time", 1, "months"
 "generic_wombatlite", "no3", "no3", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "o2", "o2", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "phy", "phy", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
@@ -81,7 +81,7 @@ ACCESS-OM3
 
 # monthly 2d BGC fields
 
-"access-om3.mom6.2d.bgc.1mon.mean.%4yr", 1, "months", 1, "days", "time", 1, "years"
+"access-om3.mom6.2d.bgc.1mon.mean.%4yr", 1, "days", 1, "days", "time", 1, "months"
 "generic_wombatlite", "o2_stf", "o2_stf", "access-om3.mom6.2d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "dic_stf", "dic_stf", "access-om3.mom6.2d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "dicp_stf", "dicp_stf", "access-om3.mom6.2d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
@@ -103,7 +103,7 @@ ACCESS-OM3
 #"generic_wombatlite", "zeuphot", "zeuphot", "access-om3.mom6.2d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 
 # 3D physics  monthly 
-"access-om3.mom6.h.native%4yr-%2mo",                    1,  "months", 1, "days",   "time", 1, "months"
+"access-om3.mom6.h.native%4yr-%2mo",                    1,  "days", 1, "days",   "time", 1, "days"
 "ocean_model", "uo",           "uo",           "access-om3.mom6.h.native%4yr-%2mo", "all", "mean", "none", 2
 "ocean_model", "vo",           "vo",           "access-om3.mom6.h.native%4yr-%2mo", "all", "mean", "none", 2
 #"ocean_model", "h",            "h",            "access-om3.mom6.h.native%4yr-%2mo", "all", "mean", "none", 2
@@ -115,7 +115,7 @@ ACCESS-OM3
 
 
 # 3D dyes daily
-"access-om3.mom6.h.dyes%4yr-%2mo",                    1,  "days", 1, "days",   "time", 1, "years"
+"access-om3.mom6.h.dyes%4yr-%2mo",                    1,  "days", 1, "days",   "time", 1, "months"
 "ocean_model_z", "dye001",      "dye001",      "access-om3.mom6.h.dyes%4yr-%2mo", "all", "mean", "none", 2
 "ocean_model_z", "dye002",      "dye002",      "access-om3.mom6.h.dyes%4yr-%2mo", "all", "mean", "none", 2
 "ocean_model_z", "dye003",      "dye003",      "access-om3.mom6.h.dyes%4yr-%2mo", "all", "mean", "none", 2

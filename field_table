@@ -146,4 +146,18 @@ detfe_sediment_dest_var_unit = mol m-2
 detfe_sediment_src_var_record = 1
 detfe_sediment_src_var_gridspec = NONE
 detfe_sediment_valid_min = 0.0
+#
+no3_obc_src_file_name = no3_obc_segment.nc
+phy_obc_src_file_name = phy_obc_segment.nc
+phyfe_obc_src_file_name = phyfe_obc_segment.nc
+o2_obc_src_file_name = o2_obc_segment.nc
+zoo_obc_src_file_name = zoo_obc_segment.nc
+zoofe_obc_src_file_name = zoofe_obc_segment.nc
+det_obc_src_file_name = det_obc_segment.nc
+detfe_obc_src_file_name = detfe_obc_segment.nc
+caco3_obc_src_file_name = caco3_obc_segment.nc
+dic_obc_src_file_name = dic_obc_segment.nc
+alk_obc_src_file_name = alk_obc_segment.nc
+fe_obc_src_file_name = fe_obc_segment.nc
+pchl_obc_src_file_name = pchl_obc_segment.nc
 /
