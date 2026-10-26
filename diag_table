@@ -15,9 +15,9 @@ ACCESS-OM3
 "generic_wombatlite", "phy", "phy", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "det", "det", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "zoo", "zoo", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-#"generic_wombatlite", "phyfe", "phyfe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-#"generic_wombatlite", "detfe", "detfe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-#"generic_wombatlite", "zoofe", "zoofe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "phyfe", "phyfe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "detfe", "detfe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "zoofe", "zoofe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "pchl", "pchl", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "caco3", "caco3", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "dic", "dic", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
@@ -25,20 +25,19 @@ ACCESS-OM3
 "generic_wombatlite", "dicr", "dicr", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "dicp", "dicp", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "fe", "fe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-"generic_wombatlite", "pprod_gross", "pprod_gross", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-"generic_wombatlite", "zprod_gross", "zprod_gross", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "npp3d", "npp3d", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 "generic_wombatlite", "radbio", "radbio", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "radmid", "radmid", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "radmld", "radmld", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-#"generic_wombatlite", "phy_mu", "phy_mu", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "phy_mu", "phy_mu", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "phy_mumax", "phy_mumax", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "pchl_mu", "pchl_mu", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "pchl_lpar", "pchl_lpar", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "phy_kni", "phy_kni", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "phy_kfe", "phy_kfe", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-#"generic_wombatlite", "phy_lpar", "phy_lpar", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-#"generic_wombatlite", "phy_lnit", "phy_lnit", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
-#"generic_wombatlite", "phy_lfer", "phy_lfer", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "phy_lpar", "phy_lpar", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "phy_lnit", "phy_lnit", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
+"generic_wombatlite", "phy_lfer", "phy_lfer", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "phy_dfeupt", "phy_dfeupt", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "phy_feupreg", "phy_feupreg", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 #"generic_wombatlite", "phy_fedoreg", "phy_fedoreg", "access-om3.mom6.3d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
@@ -103,7 +102,7 @@ ACCESS-OM3
 #"generic_wombatlite", "zeuphot", "zeuphot", "access-om3.mom6.2d.bgc.1mon.mean.%4yr", "all", "average", "none", 2
 
 # 3D physics  monthly 
-"access-om3.mom6.h.native%4yr-%2mo",                    1,  "days", 1, "days",   "time", 1, "days"
+"access-om3.mom6.h.native%4yr-%2mo",                    1,  "days", 1, "days",   "time", 1, "months"
 "ocean_model", "uo",           "uo",           "access-om3.mom6.h.native%4yr-%2mo", "all", "mean", "none", 2
 "ocean_model", "vo",           "vo",           "access-om3.mom6.h.native%4yr-%2mo", "all", "mean", "none", 2
 #"ocean_model", "h",            "h",            "access-om3.mom6.h.native%4yr-%2mo", "all", "mean", "none", 2
