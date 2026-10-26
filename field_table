@@ -3,6 +3,8 @@
 "namelists","ocean_mod","generic_wombatlite/*global*"
 /
 "namelists","ocean_mod","generic_wombatlite"
+enforce_src_info = .false.
+#
 no3_src_file = INPUT/init_bgc_tracers.nc
 no3_src_var_name = no3
 no3_src_var_unit = none
